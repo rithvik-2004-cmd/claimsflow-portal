@@ -24,7 +24,7 @@ function PublicLayout() {
           bgcolor: 'background.paper',
         }}
       >
-        <Typography variant="h3">ClaimsFlow</Typography>
+        <Typography variant="h3">M&M Insurance</Typography>
         {links.map(([label, to]) => (
           <Box
             key={to}

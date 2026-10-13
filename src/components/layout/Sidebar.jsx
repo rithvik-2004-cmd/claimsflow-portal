@@ -93,7 +93,7 @@ function Sidebar({ collapsed = false, onNavigate }) {
         component={Link}
         to={ROUTES.DASHBOARD}
         onClick={onNavigate}
-        aria-label="ClaimsFlow home"
+        aria-label="M&M Insurance home"
         sx={{
           height: 56,
           flexShrink: 0,

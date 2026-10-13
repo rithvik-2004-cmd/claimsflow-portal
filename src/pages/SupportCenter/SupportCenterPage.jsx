@@ -58,7 +58,7 @@ export default function SupportCenterPage() {
                 </Typography>
 
                 <Typography color="text.secondary">
-                  support@claimsflow.com
+                  support@M&M Insurance.com
                 </Typography>
               </Stack>
             </CardContent>

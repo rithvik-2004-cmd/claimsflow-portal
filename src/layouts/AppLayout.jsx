@@ -9,7 +9,7 @@ import { motion as motionTokens } from '../styles/tokens';
 
 const SIDEBAR_WIDTH = 248;
 const SIDEBAR_WIDTH_COLLAPSED = 72;
-const STORAGE_KEY = 'claimsflow.sidebarCollapsed';
+const STORAGE_KEY = 'M&M Insurance.sidebarCollapsed';
 
 // Temporary user and count. Replaced by AuthContext and the notifications service later.
 const currentUser = { name: 'Priya Verma', email: 'priya.verma@example.com' };
