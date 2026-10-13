@@ -1,0 +1,131 @@
+[
+  {
+    "id": "CLM-2026-01042", "policyNumber": "POL-MTR-884231", "category": "motor",
+    "title": "Rear-end collision on Outer Ring Road", "status": "documents_pending",
+    "incidentDate": "2026-10-02", "incidentTime": "18:20",
+    "location": "Outer Ring Road, Gachibowli, Hyderabad",
+    "description": "Vehicle was hit from behind at a signal. Rear bumper and boot panel damaged.",
+    "claimedAmount": 185000, "approvedAmount": null, "settledAmount": null,
+    "submittedAt": "2026-10-03T09:15:00Z", "updatedAt": "2026-10-12T14:40:00Z",
+    "adjuster": "Ananya Rao", "nextAction": "Upload the garage repair estimate",
+    "timeline": [
+      { "id": "t1", "title": "Claim submitted", "detail": "Claim registered successfully.", "at": "2026-10-03T09:15:00Z" },
+      { "id": "t2", "title": "Survey completed", "detail": "Surveyor inspected the vehicle.", "at": "2026-10-08T11:30:00Z" },
+      { "id": "t3", "title": "Document requested", "detail": "Garage repair estimate is required.", "at": "2026-10-12T14:40:00Z" }
+    ]
+  },
+  {
+    "id": "CLM-2026-01051", "policyNumber": "POL-HLT-552019", "category": "health",
+    "title": "Hospitalisation for viral pneumonia", "status": "under_review",
+    "incidentDate": "2026-09-28", "incidentTime": "22:00",
+    "location": "Care Hospitals, Banjara Hills, Hyderabad",
+    "description": "Admitted for three days with viral pneumonia. Discharge summary and bills attached.",
+    "claimedAmount": 142000, "approvedAmount": null, "settledAmount": null,
+    "submittedAt": "2026-09-30T10:30:00Z", "updatedAt": "2026-10-11T10:05:00Z",
+    "adjuster": "Karthik Reddy", "nextAction": null,
+    "timeline": [
+      { "id": "t1", "title": "Claim submitted", "detail": "Claim registered successfully.", "at": "2026-09-30T10:30:00Z" },
+      { "id": "t2", "title": "Under review", "detail": "Medical bills are being verified.", "at": "2026-10-11T10:05:00Z" }
+    ]
+  },
+  {
+    "id": "CLM-2026-01038", "policyNumber": "POL-HOM-310477", "category": "home",
+    "title": "Water damage from burst pipe", "status": "survey_scheduled",
+    "incidentDate": "2026-10-06", "incidentTime": "07:45", "location": "Madhapur, Hyderabad",
+    "description": "A pipe burst in the kitchen and damaged flooring and cabinets.",
+    "claimedAmount": 96000, "approvedAmount": null, "settledAmount": null,
+    "submittedAt": "2026-10-07T08:20:00Z", "updatedAt": "2026-10-11T16:20:00Z",
+    "adjuster": "Meera Nair", "nextAction": null,
+    "timeline": [
+      { "id": "t1", "title": "Claim submitted", "detail": "Claim registered successfully.", "at": "2026-10-07T08:20:00Z" },
+      { "id": "t2", "title": "Survey scheduled", "detail": "Surveyor visit on 15 Oct, 10:00 to 12:00.", "at": "2026-10-11T16:20:00Z" }
+    ]
+  },
+  {
+    "id": "CLM-2026-01029", "policyNumber": "POL-DEV-778102", "category": "device",
+    "title": "Cracked screen on iPhone 15 Pro", "status": "approved",
+    "incidentDate": "2026-09-20", "incidentTime": "15:10", "location": "HITEC City, Hyderabad",
+    "description": "Phone slipped from hand and the display cracked.",
+    "claimedAmount": 28500, "approvedAmount": 28500, "settledAmount": null,
+    "submittedAt": "2026-09-21T09:00:00Z", "updatedAt": "2026-10-09T12:00:00Z",
+    "adjuster": "Ananya Rao", "nextAction": null,
+    "timeline": [
+      { "id": "t1", "title": "Claim submitted", "detail": "Claim registered successfully.", "at": "2026-09-21T09:00:00Z" },
+      { "id": "t2", "title": "Claim approved", "detail": "Approved amount: 28,500.", "at": "2026-10-09T12:00:00Z" }
+    ]
+  },
+  {
+    "id": "CLM-2026-01017", "policyNumber": "POL-MTR-884231", "category": "motor",
+    "title": "Door dent in parking lot", "status": "settled",
+    "incidentDate": "2026-08-14", "incidentTime": "13:05", "location": "Inorbit Mall, Madhapur, Hyderabad",
+    "description": "Vehicle was dented by another car while parked.",
+    "claimedAmount": 68000, "approvedAmount": 63200, "settledAmount": 63200,
+    "submittedAt": "2026-08-15T09:40:00Z", "updatedAt": "2026-09-12T17:30:00Z",
+    "adjuster": "Karthik Reddy", "nextAction": null,
+    "timeline": [
+      { "id": "t1", "title": "Claim submitted", "detail": "Claim registered successfully.", "at": "2026-08-15T09:40:00Z" },
+      { "id": "t2", "title": "Claim settled", "detail": "Payment of 63,200 completed.", "at": "2026-09-12T17:30:00Z" }
+    ]
+  },
+  {
+    "id": "CLM-2026-01009", "policyNumber": "POL-HLT-552019", "category": "health",
+    "title": "Cosmetic dental procedure", "status": "rejected",
+    "incidentDate": "2026-07-21", "incidentTime": "11:00", "location": "Smile Dental Clinic, Kondapur, Hyderabad",
+    "description": "Teeth whitening and veneers at a dental clinic.",
+    "claimedAmount": 38000, "approvedAmount": null, "settledAmount": null,
+    "submittedAt": "2026-07-23T12:10:00Z", "updatedAt": "2026-08-04T10:00:00Z",
+    "adjuster": "Karthik Reddy", "nextAction": null,
+    "timeline": [
+      { "id": "t1", "title": "Claim submitted", "detail": "Claim registered successfully.", "at": "2026-07-23T12:10:00Z" },
+      { "id": "t2", "title": "Claim rejected", "detail": "Cosmetic procedures are excluded under the policy.", "at": "2026-08-04T10:00:00Z" }
+    ]
+  },
+  {
+    "id": "CLM-2026-01033", "policyNumber": "POL-HOM-310477", "category": "home",
+    "title": "Burglary at residence", "status": "investigation",
+    "incidentDate": "2026-09-29", "incidentTime": "02:30", "location": "Madhapur, Hyderabad",
+    "description": "Forced entry while away. Electronics and jewellery reported missing. FIR filed.",
+    "claimedAmount": 215000, "approvedAmount": null, "settledAmount": null,
+    "submittedAt": "2026-09-30T07:50:00Z", "updatedAt": "2026-10-10T15:15:00Z",
+    "adjuster": "Meera Nair", "nextAction": null,
+    "timeline": [
+      { "id": "t1", "title": "Claim submitted", "detail": "Claim registered successfully.", "at": "2026-09-30T07:50:00Z" },
+      { "id": "t2", "title": "Investigation started", "detail": "Detailed verification in progress.", "at": "2026-10-10T15:15:00Z" }
+    ]
+  },
+  {
+    "id": "CLM-2026-01046", "policyNumber": "POL-MTR-884231", "category": "motor",
+    "title": "Cracked windshield", "status": "settlement_processing",
+    "incidentDate": "2026-09-24", "incidentTime": "09:30", "location": "Kondapur, Hyderabad",
+    "description": "Stone chip spread across the windshield.",
+    "claimedAmount": 22000, "approvedAmount": 22000, "settledAmount": null,
+    "submittedAt": "2026-09-25T11:00:00Z", "updatedAt": "2026-10-10T11:00:00Z",
+    "adjuster": "Ananya Rao", "nextAction": null,
+    "timeline": [
+      { "id": "t1", "title": "Claim approved", "detail": "Approved amount: 22,000.", "at": "2026-10-06T10:00:00Z" },
+      { "id": "t2", "title": "Payment initiated", "detail": "Settlement is being processed.", "at": "2026-10-10T11:00:00Z" }
+    ]
+  },
+  {
+    "id": "CLM-2026-01055", "policyNumber": "POL-MTR-884231", "category": "motor",
+    "title": "Hail damage to roof panel", "status": "submitted",
+    "incidentDate": "2026-10-11", "incidentTime": "17:10", "location": "Kukatpally, Hyderabad",
+    "description": "Hailstorm left dents on the roof and bonnet.",
+    "claimedAmount": 31000, "approvedAmount": null, "settledAmount": null,
+    "submittedAt": "2026-10-12T09:00:00Z", "updatedAt": "2026-10-12T09:00:00Z",
+    "adjuster": null, "nextAction": null,
+    "timeline": [
+      { "id": "t1", "title": "Claim submitted", "detail": "Claim registered successfully.", "at": "2026-10-12T09:00:00Z" }
+    ]
+  },
+  {
+    "id": "CLM-2026-01057", "policyNumber": "POL-TRV-406218", "category": "travel",
+    "title": "Trip cancellation due to illness", "status": "draft",
+    "incidentDate": "2026-10-11", "incidentTime": "08:00", "location": "Hyderabad",
+    "description": "",
+    "claimedAmount": 0, "approvedAmount": null, "settledAmount": null,
+    "submittedAt": null, "updatedAt": "2026-10-13T08:30:00Z",
+    "adjuster": null, "nextAction": "Finish and submit your claim",
+    "timeline": []
+  }
+]

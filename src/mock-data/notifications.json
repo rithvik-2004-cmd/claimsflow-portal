@@ -1,0 +1,23 @@
+[
+  {
+    "id": "N-1001",
+    "title": "Documents Required",
+    "message": "Please upload repair estimates.",
+    "type": "ACTION_REQUIRED",
+    "read": false
+  },
+  {
+    "id": "N-1002",
+    "title": "Claim Approved",
+    "message": "Your claim has been approved.",
+    "type": "APPROVED",
+    "read": false
+  },
+  {
+    "id": "N-1003",
+    "title": "Settlement Processed",
+    "message": "Settlement amount transferred.",
+    "type": "INFO",
+    "read": true
+  }
+]

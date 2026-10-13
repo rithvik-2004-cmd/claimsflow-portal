@@ -1,0 +1,7 @@
+[
+  { "policyNumber": "POL-MTR-884231", "category": "motor", "productName": "Comprehensive Car Insurance", "holderName": "Priya Verma", "insuredItem": "Maruti Suzuki Swift VXi, TS09 AB 4821", "sumInsured": 520000, "premium": 18450, "startDate": "2026-03-15", "endDate": "2027-03-14", "status": "active" },
+  { "policyNumber": "POL-HLT-552019", "category": "health", "productName": "Family Health Shield", "holderName": "Priya Verma", "insuredItem": "Priya, Arjun and Meera Verma", "sumInsured": 1000000, "premium": 24800, "startDate": "2026-01-01", "endDate": "2026-12-31", "status": "active" },
+  { "policyNumber": "POL-HOM-310477", "category": "home", "productName": "Home Protect Plus", "holderName": "Priya Verma", "insuredItem": "2BHK apartment, Madhapur, Hyderabad", "sumInsured": 3500000, "premium": 6200, "startDate": "2026-06-01", "endDate": "2027-05-31", "status": "active" },
+  { "policyNumber": "POL-DEV-778102", "category": "device", "productName": "Mobile & Appliance Care", "holderName": "Priya Verma", "insuredItem": "iPhone 15 Pro", "sumInsured": 129900, "premium": 3900, "startDate": "2026-05-10", "endDate": "2027-05-09", "status": "active" },
+  { "policyNumber": "POL-TRV-406218", "category": "travel", "productName": "Travel Secure International", "holderName": "Priya Verma", "insuredItem": "Singapore trip, 12 to 19 Nov 2026", "sumInsured": 500000, "premium": 1850, "startDate": "2026-10-01", "endDate": "2026-11-30", "status": "active" }
+]
